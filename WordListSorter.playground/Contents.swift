@@ -2,214 +2,257 @@ import Foundation
 
 let text = """
 
-FAVORITE POSITION
-TROUBLE
-PORNO FLICK
-NICE GUY
-BAD BOYS
-HALLOWEEN COSTUME
-INDIGINOUS PEOPLE
-TROPICAL FRUIT
-TENSE SITUATION
-DRAMA QUEEN
-RED NECKS
-IMMIGRANT FAMILIES
-IMMIGRANT WORKERS
-FOREIGN WORKER
-CONFIDENCE
-LIQUID PLUMBER
-TOOTH PASTE
-DENTAL FLOSS
-Night school
-Separate
-Joined
-Combined
-Mixed
-Crud
-Straw
-Barrel
-Salvage
-Thumb
-OVER WHELMING
-TREATMENT PLAN
+PRIME_MERIDIAN
+WHILE_SLEEPING
+FLEETING_THOUGHT
+NOT MANY_OPTIONS
+ILL_PREPARED
+PRIME_MERIDIAN
+WHILE_SLEEPING
+FLEETING_THOUGHT
+NOT MANY_OPTIONS
+ILL PREPARED
+PRIME MERIDIAN
+WHILE_SLEEPING
+FLEETING_THOUGHT
+NOT MANY_OPTIONS
+ILL_PREPARED
+TRACKING_DEVICE
+FOREIGN_WORKER
+LIQUID_PLUMBER
+TOUGHEN_UP
+INTENSE_ANIMAL
+BAD_FEELING
+SCRATCH_SNIFF
+PENALTY_BOX
+ON YOUR_KNEES
+PEOPLE_CLOTHES
+DOG_CLOTHES
+ABUSIVE_FATHER
+ABUSIVE_PARENTS
+GARBAGE_DUMP
+DEFLATE
+THERMAL
+RANSACK
+CRYPTIC
+EQUATOR
+HYDRATE
+PENALTY
+BLAMING
+BARGAIN
+FENCING
+COURAGE
+MINDFUL
+YAPPING
+BLOATED
+JOINED
+BARREL
+RUMBLE
+ATTACH
+RUBBER
+ROTATE
+ENERGY
+TAMPER
+JUMBLE
+GLIDER
+SLIDER
+INSANE
+TONGUE
+NEARLY
+SURVEY
+AFRAID
+SAVORY
+JARGON
+MIXED
+STRAW
+THUMB
 GLARE
-STAR DUST
-BREAK FREE
-BROKEN GLASS
-TOUGHEN UP
-MYTHICAL CREATURES
-NOTE WORTHY
-SPORTS COMMENTS
-Surrounded
-Rumble
-Right side
-Left handed
-Applied
-Coupon book
-Coupons
-Attach
-Attached
-Type of
-Safe drug
-Crickets singing
-Intensity
-Intense animal
-Bad feeling
-Deflated
-Deflate
-Rubber
-Melt down
-Glass house
-Green house
-Mail box
-Rotate
-Shift change
-Stray Dog
-Stray
-Energize
-Energy
-Thermal
-Tamper
-Fiber Optic
-Glue Stick
-Scratch Sniff
-Ransack
-Unlocked
-Havoc
-Cryptic
-Priority
-Prioritize
-Odd behavior
-Deep fake
-Punk
-Tropical fruit
-Tropical
-Equator
-Prime meridian
-Whiskers
-Jumble
-Bendy
-Bend Able
-Hydrate
-Multiple
-Multi Player
-Moist
-Moisture
-Scalp
-Bubble Gum
-Enlightened
-Community
-Kayak
-Canoe
-Glide
-Glider
-Slide
-Slider
-Dome
-Botanical Gardens
-Bike Path
-Penalty
-Penalty Box
-Rail
-One arm
-Two hands
-Both hands
-One hand
-Kneel
-Kneeling
-On your knees
-People clothes
-Dog clothes
-Insane
-Cyber Bully
-Blane
-Blaming
-Tongue
-Sofa
-Bargain
-Sword Fight
-Fencing
-Nearly
-Almost There
-Disruptive behavior
-Speak out
-Chalk board
-Kids meal
-Surge
-Survey
-Get enough
-Makes sense
-Afraid
-While sleeping
-Abusive father
-Abusive parents
-Grand Canyon
-Land fill
-Garbage dump
-Trash heap
-Party Lines
-Didn't understand
-Bugs me
-Taco Bowl
-Much worse
-Eye contact
-Stare down
-Nuclear sub
-Missile silo
-Sad part
-Like minded
-Step Up
-Social mandate
-Chick flick
-Bad movie
-Better choice
-Dark tunnel
-Recurring image
-Recurring dream
-Control freak
-Courage
-Mindful
-Usage
-Deep breath
-Chair pose
-Yoga pose
-Fleeting thought
-Mall santa
-Santa costume
-Haunted by failure
-Quick nap
-Lots of options
-Not many options
-Good stuff
-On ecstasy
-Saw it coming
-Flip out
-Fitting in
-Martini glass
-Communal
-Anti Depressants
-Yapping
-Wine bottle
-Married couples
-Offended
-Timely fashion
-Bloated
-Ill prepared
-No questions asked
-Tracking device
-Savory
-Tangy
-No distractions
-Patch
-High Noon
-Tube
-Infra structure
-Stamped Out
-Jargon
-Over Dose
+STRAY
+HAVOC
+BENDY
+MOIST
+SCALP
+EYE_CONTACT
+NUCLEAR_SUB
+MISSILE_SILO
+SOCIAL_MANDATE
+CONTROL_FREAK
+SANTA_COSTUME
+LOTS OF_OPTIONS
+ON_ECSTASY
+FITTING_IN
+MARTINI_GLASS
+MARRIED_COUPLES
+TIMELY_FASHION
+STAMPED_OUT
+DENTAL_FLOSS
+NIGHT_SCHOOL
+BROKEN_GLASS
+NOTE_WORTHY
+LEFT_HANDED
+COUPON_BOOK
+SHIFT_CHANGE
+MULTI_PLAYER
+BUBBLE_GUM
+ALMOST_THERE
+GET_ENOUGH
+GRAND_CANYON
+LIKE_MINDED
+BETTER_CHOICE
+DARK_TUNNEL
+DEEP_BREATH
+SAW IT_COMING
+WINE_BOTTLE
+PORNO_FLICK
+DRAMA_QUEEN
+RED_NECKS
+TOOTH_PASTE
+BREAK_FREE
+RIGHT_SIDE
+GLASS_HOUSE
+GREEN_HOUSE
+STRAY_DOG
+FIBER_OPTIC
+GLUE_STICK
+TWO_HANDS
+BOTH_HANDS
+CYBER_BULLY
+SWORD_FIGHT
+SPEAK_OUT
+CHALK_BOARD
+MAKES_SENSE
+TRASH_HEAP
+PARTY_LINES
+MUCH_WORSE
+STARE_DOWN
+CHICK_FLICK
+BAD_MOVIE
+CHAIR_POSE
+MALL_SANTA
+QUICK_NAP
+GOOD_STUFF
+GOOD STAFF
+GOOD HA FF
+NICE_GUY
+BAD_BOYS
+STAR_DUST
+TYPE_OF
+SAFE_DRUG
+MELT_DOWN
+MAIL_BOX
+DEEP_FAKE
+BEND_ABLE
+BIKE_PATH
+ONE_HAND
+KIDS_MEAL
+LAND_FILL
+BUGS_ME
+TACO_BOWL
+SAD_PART
+STEP_UP
+YOGA_POSE
+FLIP_OUT
+HIGH_NOON
+DEFLATE
+THERMAL
+RANSACK
+CRYPTIC
+EQUATOR
+HYDRATE
+PENALTY
+BLAMING
+BARGAIN
+FENCING
+COURAGE
+MINDFUL
+YAPPING
+BLOATED
+JOINED
+BARREL
+RUMBLE
+ATTACH
+RUBBER
+ROTATE
+ENERGY
+TAMPER
+JUMBLE
+GLIDER
+SLIDER
+INSANE
+TONGUE
+NEARLY
+SURVEY
+AFRAID
+SAVORY
+JARGON
+MIXED
+STRAW
+THUMB
+GLARE
+STRAY
+HAVOC
+BENDY
+MOIST
+SCALP
+OVER_DOSE
+ONE_ARM
+ENLIGHTENED
+CONFIDENCE
+SURROUNDED
+PRIORITIZE
+INTENSITY
+COMMUNITY
+SEPARATE
+COMBINED
+ATTACHED
+DEFLATED
+ENERGIZE
+UNLOCKED
+PRIORITY
+TROPICAL
+WHISKERS
+MULTIPLE
+MOISTURE
+KNEELING
+COMMUNAL
+OFFENDED
+TROUBLE
+SALVAGE
+APPLIED
+COUPONS
+
+KAYAK
+CANOE
+GLIDE
+SLIDE
+KNEEL
+BLAME
+SURGE
+USAGE
+BARGAIN
+FENCING
+COURAGE
+MINDFUL
+YAPPING
+BLOATED
+JOINED
+BARREL
+RUMBLE
+ATTACH
+RUBBER
+ROTATE
+ENERGY
+TANGY
+PATCH
+CRUD
+PUNK
+DOME
+RAIL
+SOFA
+TUBE
 """
 
-let lines = text.split(separator: "\n")
+let _lines = text.split(separator: "\n")
     .map {
         $0
             .uppercased()
@@ -217,15 +260,29 @@ let lines = text.split(separator: "\n")
 }.filter {
     $0
         .count > 0
-}.map {
-    $0.split(separator: " ")
-        .map {
-            $0
-                .trimmingCharacters(in: .whitespacesAndNewlines)
+}
+
+var lines = [[String]]()
+var set = Set<[String]>()
+for line in _lines {
+    var words = [String]()
+    
+    let splitOnSpace = line.split(separator: " ")
+    for checkWord in splitOnSpace {
+        let innerWords = checkWord.split(separator: "_")
+        for innerWord in innerWords {
+            let word = innerWord.trimmingCharacters(in: .whitespacesAndNewlines)
+            if word.count > 0 {
+                words.append(word)
+            }
         }
-        .filter {
-            $0.count > 0
+    }
+    if words.count > 0 {
+        if !set.contains(words) {
+            lines.append(words)
+            set.insert(words)
         }
+    }
 }
 
 enum Bit: CustomStringConvertible {
@@ -343,7 +400,23 @@ bits.sort { (lhs: Bit, rhs: Bit) in
         if !rhs.isOneLiner() {
             let countLHS = max(lhs.line1Count(), lhs.line2Count())
             let countRHS = max(rhs.line1Count(), rhs.line2Count())
-            return countLHS > countRHS
+            if countLHS == countRHS {
+                let lhsLine1 = lhs.line1()
+                let rhsLine1 = rhs.line1()
+                if lhsLine1 == rhsLine1 {
+                    let lhsLine2 = lhs.line2()
+                    let rhsLine2 = rhs.line2()
+                    if lhsLine2.count == rhsLine2.count {
+                        return lhsLine2 > rhsLine2
+                    } else {
+                        return lhsLine2.count > rhsLine2.count
+                    }
+                } else {
+                    return lhsLine1 > rhsLine1
+                }
+            } else {
+                return countLHS > countRHS
+            }
         } else {
             return true
         }
@@ -351,7 +424,13 @@ bits.sort { (lhs: Bit, rhs: Bit) in
     } else if !rhs.isOneLiner() {
         return false
     } else {
-        return lhs.line1Count() > rhs.line1Count()
+        let lhsCount = lhs.line1Count()
+        let rhsCount = rhs.line1Count()
+        if lhsCount == rhsCount {
+            return lhs.line1() > rhs.line1()
+        } else {
+            return lhs.line1Count() > rhs.line1Count()
+        }
     }
 }
 
